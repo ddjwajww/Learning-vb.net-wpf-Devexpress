@@ -1,0 +1,20 @@
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\bin\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.exe
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\bin\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.deps.json
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\bin\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.runtimeconfig.json
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\bin\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.dll
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\bin\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.pdb
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\MainWindow.g.vb
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\Application.g.vb
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2_MarkupCompile.cache
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2_MarkupCompile.lref
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.g.resources
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.AssemblyInfoInputs.cache
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.AssemblyInfo.vb
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.vbproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.dll
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\refint\XAML Grid Control (Calculator) - 2.dll
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.pdb
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\XAML Grid Control (Calculator) - 2.genruntimeconfig.cache
+C:\Users\emre\source\repos\XAML Grid Control (Calculator) - 2\XAML Grid Control (Calculator) - 2\obj\Debug\net8.0-windows\ref\XAML Grid Control (Calculator) - 2.dll

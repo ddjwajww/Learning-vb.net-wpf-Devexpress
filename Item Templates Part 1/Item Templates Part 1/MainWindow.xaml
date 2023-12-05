@@ -1,0 +1,29 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Item_Templates_Part_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <StackPanel>
+        <ListBox x:Name="lstTest" Height="200">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">                        
+                        <CheckBox IsChecked="{Binding Checked}" VerticalAlignment="Center"></CheckBox>
+                        <Image Width="25" Source="{Binding Image}"></Image>
+                        <Label Content="{Binding Text}" VerticalAlignment="Center"></Label>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <TextBox x:Name="txtItems"></TextBox>
+        <Button Click="Button_Click">Add</Button>
+        <Button Click="Button_Click_1">Is This Checked?</Button>
+        <Button Click="Button_Click_2">Change text</Button>
+        <Button Click="Button_Click_3">Change All Image</Button>
+        <Button Click="Button_Click_4">Invert Selection</Button>
+    </StackPanel>
+</Window>

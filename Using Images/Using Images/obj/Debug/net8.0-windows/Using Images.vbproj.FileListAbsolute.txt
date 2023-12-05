@@ -1,0 +1,20 @@
+C:\Users\emre\source\repos\Using Images\Using Images\bin\Debug\net8.0-windows\Using Images.exe
+C:\Users\emre\source\repos\Using Images\Using Images\bin\Debug\net8.0-windows\Using Images.deps.json
+C:\Users\emre\source\repos\Using Images\Using Images\bin\Debug\net8.0-windows\Using Images.runtimeconfig.json
+C:\Users\emre\source\repos\Using Images\Using Images\bin\Debug\net8.0-windows\Using Images.dll
+C:\Users\emre\source\repos\Using Images\Using Images\bin\Debug\net8.0-windows\Using Images.pdb
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\MainWindow.g.vb
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Application.g.vb
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images_MarkupCompile.cache
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images_MarkupCompile.lref
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images.g.resources
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images.AssemblyInfoInputs.cache
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images.AssemblyInfo.vb
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images.vbproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images.dll
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\refint\Using Images.dll
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images.pdb
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\Using Images.genruntimeconfig.cache
+C:\Users\emre\source\repos\Using Images\Using Images\obj\Debug\net8.0-windows\ref\Using Images.dll

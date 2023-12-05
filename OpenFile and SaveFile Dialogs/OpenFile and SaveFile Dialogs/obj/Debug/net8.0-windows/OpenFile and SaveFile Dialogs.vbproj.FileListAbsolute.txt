@@ -1,0 +1,20 @@
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\bin\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.exe
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\bin\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.deps.json
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\bin\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.runtimeconfig.json
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\bin\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.dll
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\bin\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.pdb
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\MainWindow.g.vb
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\Application.g.vb
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs_MarkupCompile.cache
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs_MarkupCompile.lref
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.g.resources
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.AssemblyInfoInputs.cache
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.AssemblyInfo.vb
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.vbproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.dll
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\refint\OpenFile and SaveFile Dialogs.dll
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.pdb
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\OpenFile and SaveFile Dialogs.genruntimeconfig.cache
+C:\Users\emre\source\repos\OpenFile and SaveFile Dialogs\OpenFile and SaveFile Dialogs\obj\Debug\net8.0-windows\ref\OpenFile and SaveFile Dialogs.dll
